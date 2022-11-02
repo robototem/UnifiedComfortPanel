@@ -7,6 +7,4 @@ description: This is page 1
 Whatever I write here, it will be represented in GitHub
 
 
-{
-  "plugins": ["google-adsense"]
-}
+now im writing it from github
